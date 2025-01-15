@@ -64,6 +64,7 @@ When I'm not immersed in code, I love to stay updated on the latest tech trends,
 </div>
 
 #### Other Skills
+-  REST APIs
 -  Data Structures and Algorithms
 -  Unit Testing
 -  API Integration
